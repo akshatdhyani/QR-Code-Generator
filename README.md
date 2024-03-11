@@ -15,4 +15,5 @@ Customization:
 Feel free to modify the script to suit your specific requirements and preferences.
 
 Acknowledgments
+
 Special thanks to the developers of the qrcode and image libraries for their contributions to the Python community.
